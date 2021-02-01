@@ -1,21 +1,33 @@
 body {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.heading {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+article {
+    color: gray;
+    font-size: 21px;
+}
+
+header {
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 }
 
-.download {
+.subheading {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+a:link, a:visited { 
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+  }
+  
 }
-
-.media {
-    text-align: center;
+footer {
+    text-align: right;
+    color: gray;
 }
