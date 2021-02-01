@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+}
+
+.media {
+    text-align: center;
+}
